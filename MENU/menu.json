@@ -1,0 +1,145 @@
+{ 
+"menu":[
+{
+"nombre": "COCTELES ESMERALDA",
+"descripcion":"DE LA MEJOR COMIDA",
+"imagen":"res.png"
+
+},
+{
+"nombre": "COCTEL",
+"descripcion":"El coctel/cóctel de camarones o de gambas (en inglés, shrimp cocktail o prawn cocktail) es un plato frío servido como aperitivo o entrante, preparado con gambas o camarones hervidos y pelados, usualmente con especias, jugo de limón, alguna salsa y una variedad de verduras, como lechuga, aguacate o tomate",
+"precio":478,
+"imagen":"coctel10.jpg"
+
+},
+{
+"nombre": "TACOS DE FRITO",
+"descripcion":"ay rellenos solo de vegetales, y otras opciones con diferentes carnes, incluso camarones.",
+"precio":145,
+"imagen":"tacos 6.jpg"
+
+},
+{
+"nombre": "SOPA DE CAMARONES",
+"descripcion":"Es un caldo casi transparente que se sirve sin camarones ni verduras.",
+"precio":230,
+"imagen":"sopa.jpg"
+
+},
+{
+"nombre": "TACOS",
+"descripcion":"La anatomía del taco consiste en una tortilla (generalmente de maíz), seguido de un guiso, acompañado con cebolla, cilantro picado y limón, así como alguna salsa, la cual varía en su picor al gusto del comensal.31 mar 2017.",
+"precio":145,
+"imagen":"Tacos3.jpg"
+
+},
+{
+"nombre": "CREMA",
+"descripcion":" es un plato de fácil preparación y barato. Se fríe el kimchi junto a cebolla y cebollín y se mezcla con arroz.",
+"precio":780,
+"imagen":"crema.jpg"
+
+},
+{
+"nombre": "LANGOSTA",
+"descripcion":"se refiere a las costillas de un animal, por lo general vaca o cerdo que se preparan asadas. Es común que antes de prepararlas se dejen reposando en una salsa más bien dulce en base a azucar, salsa de soja y ajo.",
+"precio":415,
+"imagen":"lan.jpg"
+
+},
+{
+"nombre": "TACOS DE CAMARON",
+"descripcion":" es un estofado picante cuyo ingrediente principal es una forma más suave de dubu (tofu), denominada sundubu (순두부). Por lo general la preparación lleva también cebolla y mariscos. Es un platillo picante.",
+"precio":240,
+"imagen":"tacos de camaron.jpg"
+
+},
+{
+"nombre": "SUSHI",
+"descripcion":"El jjajangmyun (자장면; 짜장면) no es comida coreana propiamente tal. Es una variente de comida china en Corea. Se le conoce también como fideos negros por el particular color de la salsa de frijol negro. En la salsa también hay cebollas y carne. Es bastante común pedirla por delivery a la casa.",
+"precio":460,
+"imagen":"sushi9.jpg"
+
+},
+{
+"nombre": "POZOLE",
+"descripcion":"Entre las más populares están la de papa (감자전) y la de mariscos (해물파전). La tortilla siempre vendrá acompañada de salsa de soja con otros condimentos para untarla antes de comer",
+"precio":370,
+"imagen":"Pozole5.jpg"
+
+},
+{
+"nombre": "SALMON",
+"descripcion":"Dak galbi (닭갈비) es un platillo coreano que se suele compartir. Son trozos de pollo deshuesado y verduras que se saltean en una sartén gigante. Todo va mezclado con salsa gochujang, por lo que puede ser picante. En la mayoría de los lugares puedes elegir el nivel de picante o  incluso optar a no agregarle la salsa si lo pides.",
+"precio":930,
+"imagen":"salmon.jpg"
+
+},
+{
+"nombre": "PESCADO",
+"descripcion":" son uno de los platos favoritos a disfrutar durante el verano. Se trata de finos fideos sobre una sopa fría que lleva vinagre y van acopañados de pepino, rábano, pera coreana, huevo duro y un trozo fino de carne. Para sazonar se suele usar mostaza y agregar más vinagre a gusto. La salsa suele llevar bastante ají, pero no está mezclada del todo, por lo que puedes quitarla.",
+"precio":120,
+"imagen":"pescado12.jpg"
+
+},
+{
+"nombre": "PAELLA",
+"descripcion":"  Plato de arroz seco, con carne, pescado, mariscos, legumbres, etc., característico de la región valenciana, en España.",
+"precio":257,
+"imagen":"paella.jpg"
+
+},
+{
+"nombre": "QUESADILLA",
+"descripcion":" Quesadilla es básicamente una tortilla elaborada con masa de maíz o harina de trigo que se sirve doblada.",
+"precio":586,
+"imagen":"Quesadilla4.jpg"
+
+},
+{
+"nombre": "CHILAQUILES",
+"descripcion":" es otro clásico coreano, y favorito de los extranjeros. Se trata de cortes blandos de carne de vacuno marinados con salsa de soja, ajo y azúcar. Al no ser picante es un plato fácil de probar en un primer encuentro con la gastronomía coreana.",
+"precio":739,
+"imagen":"chilaquiles.jpg"
+
+},
+{
+"nombre": "TACOS NORMALES",
+"descripcion":"es otro plato que fue importado a Corea, ya que es de origen japonés. Se trata de filete de cerdo apanado y frito que se complementa con una salsa agridulce. Es muy popular sobretodo en los niños.",
+"precio":284,
+"imagen":"tacos3.jpg"
+
+},
+{
+"nombre": "BROCHETAS",
+"descripcion":" es otro plato bien típico y fácil de comer por extranjeros. Consiste de varias verduras picadas en juliana y salteadas que se mezclan con aceite de sésamo y fideos de papa camote. Muchas veces lleva también tiras de carne de vacuno y huevo.",
+"precio":739,
+"imagen":"brochetas3.jpg"
+
+},
+{
+"nombre": "CAMARON",
+"descripcion":" es otro plato para compartir en grupo. Es simplemente carne de cerdo asada a la parrilla que se corta en trozos pequeños una vez cocida y se envuelve en lechuga u otros vegetales para comer. Es común agregar ajo, kimchi, ssamjang y arroz al envolver la carne.",
+"precio":789,
+"imagen":"camaron5.jpg"
+
+},
+{
+"nombre": "CEVICHE",
+"descripcion":"es uno de los platillos callejeros por excelencia. El tteok (떡) o pastel de arroz es cocido en salsa picante de gochujang con azúcar y se acompaña de algunas verduras y pasta de pescado eomuk (어묵)",
+"precio":965,
+"imagen":"ceviche.jpg"
+
+},
+{
+"nombre": "MOLCAJETE CON CAMARONES",
+"descripcion":"Se trata de un tipo de panqueque, popular entre la comida callejera de Corea del Sur, que suele consumirse durante la temporada invernal debido a su gran contenido calórico y cálida temperatura, que resulta confortante en climas fríos.",
+"precio":320,
+"imagen":"molcajete.jpg"
+
+}
+
+]
+
+}
